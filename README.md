@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @vitostamatti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data science, machine learning and software development in general.
+- 🌱 I’m currently learning bunch of new stuff. Learning is also one of my passions.
+- 📫 You reach me at [LinkedIn](https://www.linkedin.com/in/vito-stamatti/) 
 
-<!---
-vitostamatti/vitostamatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=vitostamatti&show_icons=true alt=vitostamatti />
 </p>
